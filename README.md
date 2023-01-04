@@ -1,7 +1,7 @@
 # Fuzzy-Balancing-Robot
 <p align="center">
-  <img src="imgs/img1.jpg" width="500" title="">
-  <img src="imgs/img2.jpg" width="500" title="">
+  <img src="imgs/img1.jpg" width="480" title="">
+  <img src="imgs/demo.gif" width="480" title="">
 </p>
 PIFWRobot is an open source project for two-wheeled self-balancing robot.
 
@@ -13,8 +13,11 @@ PIFWRobot is an open source project for two-wheeled self-balancing robot.
 *  1 12.6V Li-po battery 
 
 ## Fuzzy Logic control algorithm
-
-
+<p align="center">
+  <img src="imgs/img3.jpg" width="480" title="theta">
+  <img src="imgs/img4.jpg" width="480" title="thetadot">
+  <img src="imgs/img5.jpg" width="480" title="u">
+</p>
 ## License & copyright
 @ Thinh Nguyen Phuc, Ho Chi Minh City University of Technology
 
